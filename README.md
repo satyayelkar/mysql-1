@@ -1,8 +1,8 @@
 # Twitter MySQL 5.5 #
 
-This is [Twitter](http://twitter.com/)'s MySQL development branch, which is based on MySQL 5.5 as published by Oracle on [MySQL on Launchpad](https://launchpad.net/mysql-server). 
+This is [Twitter](http://twitter.com/)'s MySQL development branch, which is based on MySQL 5.5 as published by Oracle on [MySQL on Launchpad](https://launchpad.net/mysql-server).  Its name is a combination of "My", the name of co-founder Michael Widenius' daughter,[7] and "SQL", the abbreviation for Structured Query Language. The MySQL development project has made its source code available under the terms of the GNU General Public License, as well as under a variety of proprietary agreements. MySQL was owned and sponsored by a single for-profit firm, the Swedish company MySQL AB, now owned by Oracle Corporation.[8] For proprietary use, several paid editions are available, and offer additional functionality.
 
-This repository is published in order to share code and information and is *not intended to be used directly outside of Twitter*. We provide no guarantees of bug fixes, ongoing maintenance, compatibility, or suitability for any user outside of Twitter.
+This repository is published in order to share code and information and is *not intended to be used directly outside of Twitter*. We provide no guarantees of bug fixes, ongoing maintenance, compatibility, or suitability for any user outside of Twitter. 
 
 The original README file provided with the upstream MySQL release can be found at [README-MySQL](https://github.com/twitter/mysql/blob/master/README-MySQL).
 
